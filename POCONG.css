@@ -1,0 +1,15 @@
+body
+{
+background-repeat:;
+background-image:url("low.jpg");
+background-size:50%;
+background-position:center;
+COLOR:red;
+
+}
+ul li
+{
+	display:inline-block;
+	padding:100px;
+	border:1px solid white;
+}
